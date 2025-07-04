@@ -28,9 +28,6 @@ You can run this project locally using Docker. No PHP or Apache installation req
    ```
 3. Open your browser and go to [http://localhost:8080](http://localhost:8080)
 
-### Troubleshooting
-- If you see a "Mounts Denied" error on Mac, make sure to add the project folder to Docker Desktop's File Sharing settings.
-
 ## Project Structure
 - `index.php` — Main web page
 - `images/` — Monatomic ion images
