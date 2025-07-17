@@ -20,7 +20,7 @@ You can run this project locally using Docker. No PHP or Apache installation req
 1. Clone this repository:
    ```sh
    git clone <your-repo-url>
-   cd Ions
+   cd WebIonTable
    ```
 2. Build and run the container:
    ```sh
